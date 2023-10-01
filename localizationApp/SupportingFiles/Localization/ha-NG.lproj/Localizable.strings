@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  localizationApp
+
+  Created by gikwegbu on 01/10/2023.
+  
+*/
+"ContentView.welcomeMessage" = "Sannu %@!";
